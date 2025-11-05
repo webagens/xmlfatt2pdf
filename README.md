@@ -17,10 +17,8 @@ L’obiettivo è semplificare la visualizzazione o la stampa di fatture elettron
 ## Requisiti
 
 - Python 3.x
-- Le librerie Python incluse nel file (o eventuali dipendenze esterne)
-
-  > (Controlla l’inizio del file per vedere quali `import` vengono usati)
-
+- Le librerie Python incluse nel file (os, sys, subprocess, lxml)
+- https://wkhtmltopdf.org/
 - Un file XML di fattura elettronica conforme agli standard italiani (SDI)
 - Permessi di scrittura per generare il file PDF di output
 
