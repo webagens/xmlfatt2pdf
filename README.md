@@ -76,15 +76,8 @@ Se vuoi contribuire:
 3. Fai le modifiche, testa con vari file XML reali
 4. Apri una pull request descrivendo i cambiamenti
 
-## Licenza
-
-(Specifica qui la licenza – ad esempio MIT, GPL, ecc.)
-Ad esempio:
-
-> Questo progetto è rilasciato sotto licenza MIT – vedi file `LICENSE` per i dettagli.
-
 ## Autore e contatti
 
-- Autore originale: webagens
+- Autore originale: Simone Cansella
 - Repository: [https://github.com/webagens/xmlfatt2pdf](https://github.com/webagens/xmlfatt2pdf)
 - Per segnalare bug o richiedere funzionalità: apri un Issue sul repository
